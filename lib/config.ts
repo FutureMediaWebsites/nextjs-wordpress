@@ -1,7 +1,7 @@
 const config = {
-  siteName: 'Grannexe',
-  siteDescription: 'Grannexe WordPress Site',
-  siteUrl: 'https://grannexe.co.uk',
+  siteName: 'Next.js WordPress',
+  siteDescription: "It's headless WordPress!",
+  siteUrl: 'https://wptest.tharusha.dev',
   revalidate: 3600 // 1 hour
 }
 
